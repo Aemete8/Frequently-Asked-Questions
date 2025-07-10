@@ -89,6 +89,6 @@ footer{
 @media (max-width: 720px) {
     main {
     padding: 24px;
-    height: 100vh;
+    height: max-content;
     }
 }
